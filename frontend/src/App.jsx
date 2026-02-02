@@ -40,8 +40,8 @@ export default function App() {
   return (
     <div className="app-container">
       <header>
-        <h1>AI Career Guide</h1>
-        <p className="subtitle">Powered by OpenAI</p>
+        <h1>Career bud</h1>
+        <p className="subtitle">Built by Auta Jesse</p>
       </header>
 
       <div className="chat-window">
